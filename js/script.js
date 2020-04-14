@@ -4,6 +4,7 @@
 
 var second = 4;
 let MyLet = ("cross");
+console.log(Mylet);
 const pi = 3.14;
 console.log(4/0);
 console.log("string" * 56);
