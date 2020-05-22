@@ -4,4 +4,4 @@ const obj = {
     a: 40
 };
 obj.a=10;
-console.log (obj["a"]);
+console.log (obj['a']);
