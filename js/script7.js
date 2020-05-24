@@ -1,5 +1,4 @@
 'use strict';
-<<<<<<< HEAD
 const pum = 39;
 switch (pum) {
     case 48:
@@ -14,5 +13,3 @@ switch (pum) {
                     console.log("Не в этот раз!");
                     break;
 }
-=======
->>>>>>> master
