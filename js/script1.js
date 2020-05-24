@@ -2,7 +2,7 @@
 let num = 300;
 if (num < 30) {
     console.log("неверно!");
-} else if (num > 100) {
+} else if (num != 300) {
     console.log("много");
 } else {
     console.log("верно");
